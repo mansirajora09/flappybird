@@ -1,0 +1,2 @@
+com/DefaultCompany/BrickBreaker2D/BuildConfig.java
+ com.DefaultCompany.BrickBreaker2D.BuildConfig
